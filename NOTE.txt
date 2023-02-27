@@ -1,0 +1,4 @@
+Hi Everyone!!! I am Aaroh Sinha, creator of this project.This was my first project I created in November 2022 
+just after learning Python. It may have faults so just cope with it :)
+
+NOTE - In line 107, the path of the logo is specified but the logo is not provided. 
